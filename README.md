@@ -1,4 +1,4 @@
-# Beyin_Kanamasi_Tespiti_icin_Goruntu_isleme_ve_Makine_Ogrenimi_Projesi
+#🧠 Beyin Kanaması Tespiti için Görüntü İşleme ve Makine Öğrenimi Projesi
 Beyin Kanaması Tespiti için Görüntü İşleme ve Makine Öğrenimi Projesi
 Bu proje, medikal görüntüler üzerinde beyin kanaması (hemorajik lezyon) bölgelerinin tespiti amacıyla geliştirilmiş ileri düzey bir görüntü işleme ve makine öğrenmesi çalışmasıdır.
 

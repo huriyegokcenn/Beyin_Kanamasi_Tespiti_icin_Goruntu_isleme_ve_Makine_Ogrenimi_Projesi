@@ -1,0 +1,1 @@
+# Beyin_Kanamasi_Tespiti_icin_Goruntu_isleme_ve_Makine_Ogrenimi_Projesi
